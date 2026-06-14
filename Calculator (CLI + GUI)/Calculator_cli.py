@@ -15,7 +15,7 @@ def div(a,b):
 #Coding layer
 choice = ""
 while True:
-    choice = input("enter the name of operation you want to perform:- \n1.add\n2.sub\n3.mul\n4.div\n5.stop\n\nEnter : \n\n").lower()
+    choice = input("enter the name of operation you want to perform:- \n1.add\n2.sub\n3.mul\n4.div\n5.stop\n\nEnter : ").lower()
     if(choice=="stop"):
         break
     else:
@@ -43,7 +43,3 @@ while True:
             continue
         choice = ""
         continue
-            
-            
-
-
