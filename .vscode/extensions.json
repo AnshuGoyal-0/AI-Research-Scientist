@@ -1,3 +1,10 @@
 {
-  "recommendations": ["shd101wyy.markdown-preview-enhanced"]
+  "recommendations": [
+    "shd101wyy.markdown-preview-enhanced",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.vscode-jupyter-powertoys",
+    "ms-toolsai.jupyter-renderers",
+    "google.colab",
+    "xelad0m.jupyter-toc"
+  ]
 }
