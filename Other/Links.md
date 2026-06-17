@@ -1,2 +1,4 @@
-MS COPILOT CHAT LIINK : https://m365.cloud.microsoft/chat/agent/T_f7a3f60d-efdf-55e2-0eeb-1c499a42e407.a6f4360a-1902-4fa1-a1bc-7f3af6dab3ad.gpt.253be43f-f53d-40c3-ac6f-8ab60abe8fc4/conversation/cbee72d7-9f0a-40df-add9-b776df94e5c0?fromCode=cmcv2&redirectId=2C3C0882385B435B921138DF544EF9F5&internalredirect=CCM&client-request-id=1ec9f4d6-2a2d-4283-9feb-27769e737969&origindomain=CCM&login_hint=AnshuGoel%40t0ctw.onmicrosoft.com
+MS COPILOT CHAT LIINK : 
+
+[Microsoft Copilot Chat](https://m365.cloud.microsoft/chat/agent/T_f7a3f60d-efdf-55e2-0eeb-1c499a42e407.a6f4360a-1902-4fa1-a1bc-7f3af6dab3ad.gpt.253be43f-f53d-40c3-ac6f-8ab60abe8fc4/conversation/cbee72d7-9f0a-40df-add9-b776df94e5c0?fromCode=cmcv2&redirectId=2C3C0882385B435B921138DF544EF9F5&internalredirect=CCM&client-request-id=1ec9f4d6-2a2d-4283-9feb-27769e737969&origindomain=CCM&login_hint=AnshuGoel%40t0ctw.onmicrosoft.com)
 
