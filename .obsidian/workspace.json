@@ -8,22 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e65f93f44a92047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/Links.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Links"
-            }
-          },
-          {
             "id": "5d418c86160f7f8e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -31,12 +18,45 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Projects"
             }
+          },
+          {
+            "id": "6e65f93f44a92047",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Links"
+            }
+          },
+          {
+            "id": "213b87952ea60217",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://m365.cloud.microsoft/chat/agent/T_f7a3f60d-efdf-55e2-0eeb-1c499a42e407.a6f4360a-1902-4fa1-a1bc-7f3af6dab3ad.gpt.253be43f-f53d-40c3-ac6f-8ab60abe8fc4/conversation/cbee72d7-9f0a-40df-add9-b776df94e5c0?fromCode=cmcv2&redirectId=2C3C0882385B435B921138DF544EF9F5&internalredirect=CCM&client-request-id=1ec9f4d6-2a2d-4283-9feb-27769e737969&origindomain=CCM&login_hint=AnshuGoel%40t0ctw.onmicrosoft.com",
+                "title": "GENERATE ALL THE JOBS WITH MORE THAN 10 LPA JOB RE",
+                "mode": "webview"
+              },
+              "pinned": true,
+              "icon": "globe-2",
+              "title": "GENERATE ALL THE JOBS WITH MORE THAN 10 LPA JOB RE"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,9 +205,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "Other/Projects.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -216,11 +234,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5d418c86160f7f8e",
+  "active": "213b87952ea60217",
   "lastOpenFiles": [
-    "Other/Remember.md",
-    "Other/Projects.md",
     "Other/Links.md",
+    "Other/Projects.md",
+    "Other/Remember.md",
     "README.md"
   ]
 }
