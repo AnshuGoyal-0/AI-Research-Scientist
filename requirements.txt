@@ -140,7 +140,7 @@ jupyterlab_pygments
 jupyterlab_server
 jupyterlab_widgets
 keras
-Kivy
+# Kivy
 Kivy-Garden
 kiwisolver
 kombu
