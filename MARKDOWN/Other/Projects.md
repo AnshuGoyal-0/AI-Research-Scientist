@@ -37,7 +37,7 @@ LEVEL 7 → Research Projects
 
 ### ✅ Projects:
 
-- [ ] Calculator (CLI + GUI)
+- [x] Calculator (CLI + GUI)
 - [ ] To-Do List App
 - [ ] Password Generator
 - [ ] Quiz Game
