@@ -91,7 +91,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -233,7 +233,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "9de14f74bd167fbc",
+  "active": "878ea3df32e5ca8c",
   "lastOpenFiles": [
     "Other/Remember.md",
     "Other/Projects.md",
